@@ -17,6 +17,7 @@
         "declarationDir": "dist",
         "emitDeclarationOnly": true,
         "outDir": "dist",
+        "rootDir": "src",
         "types": ["jquery"]
     },
     "include": ["src/**/*.ts"]
