@@ -42,7 +42,7 @@ Vitest + jsdom, headless. Specs live in `test/autocomplete.test.js`. `test/setup
 
 To run a single test: `npx vitest run -t "test name substring"` or temporarily `describe.only` / `it.only`.
 
-The demo page `docs/index.htm` is the manual test surface (Ajax lookup, local lookup with grouping, custom container, dynamic width) **and** the live demo published at https://devbridge.github.io/jQuery-Autocomplete/ via GitHub Pages (configured to serve from `master/docs`). It loads jQuery, mockjax, and the plugin itself from CDN (`cdn.jsdelivr.net/npm/devbridge-autocomplete@2/...`); open in a browser.
+The demo page `docs/index.htm` is the manual test surface (Ajax lookup, local lookup with grouping, custom container, dynamic width) **and** the live demo published at https://tkirda.github.io/jQuery-Autocomplete/ via GitHub Pages (configured to serve from `master/docs`). It loads jQuery, mockjax, and the plugin itself from CDN (`cdn.jsdelivr.net/npm/devbridge-autocomplete@2/...`); open in a browser.
 
 ## Build internals
 

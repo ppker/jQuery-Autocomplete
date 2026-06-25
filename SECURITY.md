@@ -14,7 +14,7 @@ line is no longer maintained.
 
 Please **do not** open a public GitHub issue for security vulnerabilities.
 
-Report privately via GitHub's [Private Vulnerability Reporting](https://github.com/devbridge/jQuery-Autocomplete/security/advisories/new)
+Report privately via GitHub's [Private Vulnerability Reporting](https://github.com/tkirda/jQuery-Autocomplete/security/advisories/new)
 form on this repository. This routes the report directly to maintainers
 without disclosing details publicly.
 

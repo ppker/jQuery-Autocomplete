@@ -7,7 +7,7 @@ name: Release
 #
 # One-time setup required on npmjs.com before this can fire:
 #   npmjs.com -> Package settings -> "Trusted publisher" ->
-#     repo: devbridge/jQuery-Autocomplete
+#     repo: tkirda/jQuery-Autocomplete
 #     workflow: release.yml
 #     environment: npm-publish
 # See https://docs.npmjs.com/trusted-publishers

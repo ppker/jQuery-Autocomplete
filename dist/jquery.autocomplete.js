@@ -3,7 +3,7 @@
 *  (c) 2012-2026 Tomas Kirda and contributors
 *
 *  Ajax Autocomplete for jQuery is freely distributable under the terms of an MIT-style license.
-*  For details, see the web site: https://github.com/devbridge/jQuery-Autocomplete
+*  For details, see the web site: https://github.com/tkirda/jQuery-Autocomplete
 */
 (function (factory) {
     "use strict";
